@@ -1,0 +1,6 @@
+[config]
+build id = 03190
+2022.12.12 at 14:02:28 PST
+Branch: master
+language = en-us
+distribution name = Steam
